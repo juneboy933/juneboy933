@@ -11,10 +11,11 @@ I have a frontend background which helps me design backend systems that are prac
 
 **Frameworks & Libraries**
 - Express.js
-- Mongoose
+- Postgres
+- Nest.js
 
 **Databases & Caching**
-- MongoDB
+- Postgresql
 - Redis
 
 **Asynchronous & Background Processing**
@@ -33,6 +34,7 @@ I have a frontend background which helps me design backend systems that are prac
 - Queues, workers and background jobs
 - Webhooks & event-driven systems
 - Writing backend code that scales beyond CRUD
+- Fintech
 
 ## Contact
 - Github: https://github.com/juneboy933
