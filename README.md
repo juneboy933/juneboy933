@@ -1,7 +1,7 @@
-# Hi, I'm Brian O. Otieno 👋
+# Brian O. Otieno 
 
 I'm a Backend Engineer focused on building scalable, reliable server-side systems.
-I work mainly with Node.js, designing APIs, webhook-driven architecture, background jobs, and data-intensive services.
+I work mainly with Node.js, Express.js and Nest.js, designing APIs, webhook-driven architecture, background jobs, and data-intensive services.
 
 I have a frontend background which helps me design backend systems that are practical, secure, and frontend-friendly.
 
